@@ -1,0 +1,6 @@
+base_url: http://xkcd.com
+first_url: http://xkcd.com/1/
+link_img_regex: "<img src=\"(http://imgs.xkcd.com/comics/[^\\.]*\\.(gif|jpg|png))\""
+link_img_regex_sub: 1
+link_next_regex: "<li><a href=\"(/[0-9]*/)\" accesskey=\"[a-z]\">Next[^<]*</a></li>"
+link_next_regex_sub: 1

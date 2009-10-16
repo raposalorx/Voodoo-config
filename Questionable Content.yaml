@@ -1,0 +1,6 @@
+base_url: http://questionablecontent.net/
+first_url: http://questionablecontent.net/view.php?comic=1
+link_img_regex: "<img id=\"strip\" src=\"(\\./comics/[0-9]*\\.(png|gif|jpg|tiff))\">"
+link_img_regex_sub: 1
+link_next_regex: "<li><a href=\"(view.php\\?comic=[0-9]*)\">Next</a></li>"
+link_next_regex_sub: 1
