@@ -1,0 +1,6 @@
+base_url: http://www.schlockmercenary.com
+first_url: http://www.schlockmercenary.com/d/20091013.html
+link_img_regex: "<img src=\"(/comics/schlock[0-9]{8}\\.(jpg|gif|png|tiff))\">"
+link_img_regex_sub: 1
+link_next_regex: "<td class=\"navlink\"><a href=\"(.*)\"><img border=\"0\" src=\"/images/comicnav-next.gif\"></a></a></td>"
+link_next_regex_sub: 1
