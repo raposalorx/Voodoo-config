@@ -1,0 +1,6 @@
+base_url: http://www.giantitp.com
+first_url: http://www.giantitp.com/comics/oots0001.html
+link_img_regex: "<IMG src=\"(/comics/images/.*?\\.(gif|png|jpg))\""
+link_img_regex_sub: 1
+link_next_regex: "<A href=\"(/comics/oots[0-9]{4}\\.html)\"><IMG src=\"/Images/redesign/ComicNav_Next\\.gif\""
+link_next_regex_sub: 1

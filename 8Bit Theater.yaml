@@ -1,0 +1,5 @@
+first_url: http://www.nuklearpower.com/2001/03/02/episode-001-were-going-where/
+link_img_regex: "<img src=\"(http://www\\.nuklearpower\\.com/comics/8-bit-theater/[0-9]{6}\\.(png|jpg|gif))\""
+link_img_regex_sub: 1
+link_next_regex: "<div class=\"navbar-next\"><a href=\"(http://www\\.nuklearpower\\.com/[0-9]{4}/[0-9]{2}/[0-9]{2}/.*?)\">Next"
+link_next_regex_sub: 1
