@@ -2,5 +2,5 @@ first_url: http://directionsofdestiny.com/archive/010/cover.htm
 end_on_url: http://directionsofdestiny.com/
 link_img_regex: "src=\"(http://directionsofdestiny\\.com/archive/[0-9]{3}/pages/.*?\\.(gif|jpg|png))\""
 link_img_regex_sub: 1
-link_next_regex: "<a href=\"(http://directionsofdestiny\\.com/archive/[0-9]{3}/.*?\\.htm)\".*?><span>Next</span>"
+link_next_regex: "<div id=\"next\">\\s*?.*?<a href=\"(http://directionsofdestiny\\.com/archive/[0-9]{3}/.*?\\.htm)\".*?><span>Next</span>"
 link_next_regex_sub: 1
