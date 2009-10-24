@@ -1,0 +1,7 @@
+base_url: http://www.ctrlaltdel-online.com
+first_url: http://www.ctrlaltdel-online.com/comic.php?d=20021023
+end_on_url: http://www.ctrlaltdel-online.com/index.php
+link_img_regex: "<img src=\"(/comics/[0-9]{8}\\.(jpg|png|gif))\">"
+link_img_regex_sub: 1
+link_next_regex: "<a href=\"(/comic\\.php\\?d=[0-9]{8})\"><img src=\"/_common/images/comicnav/next1\\.jpg\""
+link_next_regex_sub: 1
