@@ -1,6 +1,6 @@
 base_url: http://www.schlockmercenary.com
 first_url: http://www.schlockmercenary.com/d/20000612.html
-end_on_url: http://www.schlockmercenary.com/index.html
+end_on_url: http://www.schlockmercenary.com/d/20091024.html
 read_end_url: 1
 link_img_regex: "<img src=\"(/comics/schlock[0-9]{8}[a-z]?\\.(jpg|gif|png|tiff))\">"
 link_img_regex_sub: 1
