@@ -1,0 +1,5 @@
+first_url: http://www.asofterworld.com/index.php?id=1
+link_img_regex: "src=\"(http://www.asofterworld.com/clean/.*?\\.(jpg|png|gif))\""
+link_img_regex_sub: 1
+link_next_regex: "href=\"(http://www.asofterworld.com/index.php\\?id=[0-9]*?)\">next"
+link_next_regex_sub: 1
