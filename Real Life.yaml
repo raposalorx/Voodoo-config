@@ -1,0 +1,8 @@
+base_url: http://www.reallifecomics.com
+first_url: http://www.reallifecomics.com/archive/991115.html
+link_redirect_regex: "<p>The document has moved <a href=\"(http://www\\.reallifecomics\\.com/)\">here</a>"
+link_redirect_regex_sub: 1
+link_img_regex: "src=\"(/comics/[0-9]{4}/[0-9]{8}_[0-9]*?\\.(png|gif|jpg))\""
+link_img_regex_sub: 1
+link_next_regex: "href=\"(/archive/[0-9]{6}\\.html)\"><img src=\"/images/nav_small_next\\.png\""
+link_next_regex_sub: 1
