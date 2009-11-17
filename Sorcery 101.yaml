@@ -1,0 +1,8 @@
+base_url: http://sorcery101.net
+first_url: http://sorcery101.net/d/20050512.html
+end_on_url: http://sorcery101.net/
+read_end_url: 1
+link_img_regex: "src=\"(/comics/[0-9]{8}\\.(jpg|png|gif))\""
+link_img_regex_sub: 1
+link_next_regex: "href=\"(/|/d/[0-9]{8}\\.html)\"><img border=\"0px\" name=\"next_day\""
+link_next_regex_sub: 1

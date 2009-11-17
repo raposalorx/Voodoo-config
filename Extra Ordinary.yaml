@@ -1,5 +1,5 @@
 first_url: http://exocomics.com/01/
 link_img_regex: "<img[^src]{0,}src=\"(http://farm[0-9].static.flickr.com/[^\\.]*.(gif|jpg|png))\"[^>]{0,}>"
 link_img_regex_sub: 1
-link_next_regex: "href=\"(http://exocomics.com/[0-9]*/)\">[^<]{0,}<img[^src]{0,}src=\"(http://farm[0-9].static.flickr.com/[^\\.]*.(gif|jpg|png))\"[^>]{0,}>[^<]{0,}</a>"
+link_next_regex: "href=\"(http://exocomics.com/([0-9]*|guest-strip-by-[a-z]*)/)\">[^<]{0,}<img[^src]{0,}src=\"(http://farm[0-9].static.flickr.com/[^\\.]*.(gif|jpg|png))\"[^>]{0,}>[^<]{0,}</a>"
 link_next_regex_sub: 1

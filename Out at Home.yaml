@@ -1,0 +1,5 @@
+first_url: http://www.out-at-home.com/archives/16
+link_img_regex: "src=\"(http://www\\.out-at-home\\.com/comics/comics/[0-9]{4}-[0-9]{2}-[0-9]{2}(-.*?)?\\.(png|jpg|gif))\""
+link_img_regex_sub: 1
+link_next_regex: "Previous</span></a><a href=\"(http://www\\.out-at-home\\.com/archives/[0-9]*?)\""
+link_next_regex_sub: 1

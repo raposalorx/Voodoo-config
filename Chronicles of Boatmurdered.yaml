@@ -1,0 +1,5 @@
+first_url: http://boatmurdered.smackjeeves.com/comics/735733/chronicles-of-boatmurdered-cover/
+link_img_regex: "src=\"(http://(img1|www)\\.smackjeeves\\.com/images/uploaded/comics/././.*?\\.(png|jpg|gif))\""
+link_img_regex_sub: 1
+link_next_regex: "href=\"(http://boatmurdered\\.smackjeeves\\.com/comics/[0-9]{6}/[^/]*?/)\"><img id=\"sj_nav_next_img\""
+link_next_regex_sub: 1
