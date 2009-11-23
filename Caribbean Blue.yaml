@@ -1,4 +1,4 @@
-base_url: http://cblue.katbox.net/
+base_url: http://cblue.katbox.net
 first_url: http://cblue.katbox.net/index.php?strip_id=1
 link_img_regex: "<img src=\"(istrip_files/strips/[0-9]{8}\\.(jpg|png|gif))\""
 link_img_regex_sub: 1

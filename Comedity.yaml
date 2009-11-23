@@ -1,4 +1,4 @@
-base_url: http://www.comedity.com/
+base_url: http://www.comedity.com
 first_url: http://www.comedity.com/index.php?strip_id=1
 link_img_regex: "<img src=\"(Comedity_files/[0-9]*?\\.(jpg|gif|png))\""
 link_img_regex_sub: 1

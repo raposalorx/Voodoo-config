@@ -1,4 +1,4 @@
-base_url: http://drmcninja.com/
+base_url: http://drmcninja.com
 first_url: http://drmcninja.com/page.php?pageNum=1&issue=11
 link_img_regex: "src=\"(/issue[0-9]*?/[0-9]*?p[0-9]*?\\.(jpg|png|gif))\""
 link_img_regex_sub: 1

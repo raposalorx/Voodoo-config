@@ -1,4 +1,4 @@
-base_url: http://www.vgcats.com/comics/
+base_url: http://www.vgcats.com
 first_url: http://www.vgcats.com/comics/?strip_id=0
 link_img_regex: "<img src=\"(images/[0-9]{6}.(jpg|gif|png))\""
 link_img_regex_sub: 1

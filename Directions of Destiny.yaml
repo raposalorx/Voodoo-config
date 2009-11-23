@@ -1,3 +1,4 @@
+base_url: http://directionsofdestiny.com
 first_url: http://directionsofdestiny.com/archive/010/cover.htm
 end_on_url: http://directionsofdestiny.com/
 link_img_regex: "src=\"(http://directionsofdestiny\\.com/archive/[0-9]{3}/pages/.*?\\.(gif|jpg|png))\""

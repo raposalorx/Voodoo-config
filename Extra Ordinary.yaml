@@ -1,3 +1,4 @@
+base_url: http://exocomics.com
 first_url: http://exocomics.com/01/
 link_img_regex: "<img[^src]{0,}src=\"(http://farm[0-9].static.flickr.com/[^\\.]*.(gif|jpg|png))\"[^>]{0,}>"
 link_img_regex_sub: 1

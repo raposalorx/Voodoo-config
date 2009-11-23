@@ -1,4 +1,4 @@
-base_url: http://www.hookiedookiepanic.com/geist/
+base_url: http://www.hookiedookiepanic.com
 first_url: http://www.hookiedookiepanic.com/geist/comic.php?ID=1
 link_img_regex: "<img src=\"(pics/[0-9]*?\\.(jpg|png|gif))\">"
 link_img_regex_sub: 1

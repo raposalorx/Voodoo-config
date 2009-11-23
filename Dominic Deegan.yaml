@@ -1,4 +1,4 @@
-base_url: http://www.dominic-deegan.com/
+base_url: http://www.dominic-deegan.com
 first_url: http://www.dominic-deegan.com/view.php?date=2002-05-21
 link_img_regex: "<img src=\"(comic.php\\?id=[0-9]*&amp;save-as=[0-9]{8}[^\\.]*\\.(gif|jpg|png|tiff))\""
 link_img_regex_sub: 1
