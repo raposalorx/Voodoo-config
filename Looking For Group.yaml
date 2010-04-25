@@ -1,6 +1,0 @@
-base_url: http://www.lfgcomic.com
-first_url: http://www.lfgcomic.com/page/1
-link_img_regex: "<img src=\"(http://archive\\.lfgcomic\\.com/lfg[0-9]{4}\\.(gif|jpg|png))\""
-link_img_regex_sub: 1
-link_next_regex: "<td><a href=\"(/page/[0-9]*)\"><img alt=\"Next\" title=\"Next\" src=\"http://images\\.lfgcomic\\.com/comic-nav-top_0_3\\.jpg\""
-link_next_regex_sub: 1

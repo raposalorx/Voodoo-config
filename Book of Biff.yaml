@@ -1,6 +1,0 @@
-base_url: http://www.thebookofbiff.com
-first_url: http://www.thebookofbiff.com/2006/01/02/4/
-link_img_regex: "<img src=\"(http://www\\.thebookofbiff\\.com/comics/[0-9]{4}-[0-9]{2}-[0-9]{2}-[0-9]{4}([a-z]*?)?\\.(png|jpg|gif))\""
-link_img_regex_sub: 1
-link_next_regex: "<link rel=\'next\' .*? href=\'(http://www\\.thebookofbiff\\.com/[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/]*?/)\' />"
-link_next_regex_sub: 1

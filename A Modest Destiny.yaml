@@ -1,8 +1,0 @@
-base_url: http://www.squidi.net
-first_url: http://www.squidi.net/comic/amd/view.php?series=amd&ep=1&id=1
-end_on_url: http://www.squidi.net/comic/index.php
-read_end_url: 1
-link_img_regex: "src=\'((amd/)?comic/amd[0-9]-[0-9]*?\\.(png|gif|jpg))\'"
-link_img_regex_sub: 1
-link_next_regex: "href=\'(http://www\\.squidi\\.net/comic/(amd/view\\.php\\?series=amd&ep=[0-9]&id=[0-9]*?|index\\.php))\'>Next"
-link_next_regex_sub: 1

@@ -1,6 +1,0 @@
-base_url: http://www.erfworld.com
-first_url: http://www.erfworld.com/book-2-archive/?px=%2F2009-10-29.jpg
-link_img_regex: "href=\"(/wp-content/uploads/book2/[0-9]{4}-[0-9]{2}-[0-9]{2}\\.(jpg|png|gif))\""
-link_img_regex_sub: 1
-link_next_regex: "href=\'(/book-2-archive/\\?px=%2F[0-9]{4}-[0-9]{2}-[0-9]{2}\\.(jpg|png|gif))\'>Next Image"
-link_next_regex_sub: 1

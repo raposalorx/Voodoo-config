@@ -1,6 +1,0 @@
-base_url: http://www.girlgeniusonline.com
-first_url: http://www.girlgeniusonline.com/comic.php?date=20021104
-link_img_regex: "<IMG ALT=\'Comic\' .*? SRC=\'(http://www\\.girlgeniusonline\\.com/ggmain/strips/ggmain[0-9]{8}[^\\.]*?\\.(gif|jpg|png))\'"
-link_img_regex_sub: 1
-link_next_regex: "<a href=\'(http://www\\.girlgeniusonline\\.com/comic\\.php\\?date=[0-9]{8})\'><img [^a]*alt=\'The Next Comic\' src=\'http://www\\.girlgeniusonline\\.com/\\!\\.images\\.page/navbuttons/nextday\\.jpg\'/></a>"
-link_next_regex_sub: 1

@@ -1,6 +1,0 @@
-base_url: http://www.squidi.net
-first_url: http://www.squidi.net/comic/junkyard/tales/view.php
-link_img_regex: "src=\'(comic/tales[0-9]-[0-9]*?\\.(png|gif|jpg))\'"
-link_img_regex_sub: 1
-link_next_regex: "href=\'(http://www\\.squidi\\.net/comic/junkyard/tales/view\\.php\\?series=tales&ep=[0-9]&id=[0-9]*?)\'>Next"
-link_next_regex_sub: 1

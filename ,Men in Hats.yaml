@@ -1,7 +1,0 @@
-base_url: http://meninhats.com
-first_url: http://meninhats.com/d/20020805.html
-end_on_url: http://meninhats.com/
-link_img_regex: "SRC=\"(/comics/[0-9]{8}\\.(gif|jpg|png))\""
-link_img_regex_sub: 1
-link_next_regex: "<a href=\"(/d/[0-9]{8}\\.html)\">Next comic"
-link_next_regex_sub: 1

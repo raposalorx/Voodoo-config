@@ -1,8 +1,0 @@
-base_url: http://www.starslip.com
-first_url: http://www.starslip.com/archive/20050523.shtml
-end_on_url: http://www.starslip.com/
-read_end_url: 1
-link_img_regex: "src=\"(/comics/(slip|ssc)[0-9]{8}.*?\\.(png|jpg|gif))\""
-link_img_regex_sub: 1
-link_next_regex: "href=\"((/archive/[0-9]{8}\\.shtml|/))\" target=\"_self\"><img border=0 src=\"/images/starslip_nav_03\\.gif\""
-link_next_regex_sub: 1
