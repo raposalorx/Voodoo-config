@@ -1,4 +1,4 @@
 base_url: http://questionablecontent.net
 first_url: http://questionablecontent.net/view.php?comic=1
-img_regex: "<img id=\"strip\" src=\"(\\./comics/[0-9]*\\.(png|gif|jpg|tiff))\">"
-next_regex: "<li><a href=\"(view.php\\?comic=[0-9]*)\">Next</a></li>"
+img_regex: "(\\./comics/[0-9]*\\.(png|gif|jpg|tiff))"
+next_regex: "(view.php\\?comic=[0-9]*)\">Next"

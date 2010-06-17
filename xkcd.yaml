@@ -1,4 +1,4 @@
 base_url: http://xkcd.com
 first_url: http://xkcd.com/1/
-img_regex: "<img src=\"(http://imgs.xkcd.com/comics/[^\\.]*\\.(gif|jpg|png))\""
-next_regex: "<li><a href=\"(/[0-9]*/)\" accesskey=\"[a-z]\">Next[^<]*</a></li>"
+img_regex: "(http://imgs.xkcd.com/comics/[^\\.]*\\.(gif|jpg|png))"
+next_regex: "(/[0-9]*/)\" accesskey=\"[a-z]\">Next"
